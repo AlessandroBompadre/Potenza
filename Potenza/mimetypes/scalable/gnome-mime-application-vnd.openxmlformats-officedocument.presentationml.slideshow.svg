@@ -64,7 +64,6 @@
  <rect id="rect892-2-7-1" style="opacity:.15891;stroke:#000;stroke-width:7.7512;fill:none" transform="scale(1,-1)" ry="28.993" height="114.35" width="114.22" y="-121.16" x="6.8687"/>
  <rect id="rect892" style="stroke:url(#linearGradient3521);stroke-width:.97385;fill:url(#linearGradient3519)" transform="scale(1,-1)" ry="29.296" height="115.54" width="114.22" y="-122.25" x="7.0394"/>
  <rect id="rect892-2" style="stroke:url(#linearGradient3516);stroke-width:.97385;fill:url(#linearGradient3514)" transform="scale(1,-1)" ry="28.993" height="114.35" width="114.22" y="-121.46" x="7.0599"/>
- <path id="path4159-5" style="stroke:url(#linearGradient4192);stroke-width:1px;fill:none" d="m7.0334 31.742h113.58z"/>
  <path id="path4322" d="m120.09 74.559c-1.82 3.831-41.638 40.371-56.018 45.741-66.185 6.38-58.724-19.48-56.838-84.917 4.797-34.382 28.284-28.298 90.407-27.48 28.999 8.074 22.189 27.125 22.449 66.656z" style="fill-rule:evenodd;fill:url(#radialGradient6925)"/>
  <rect id="rect892-2-7-8" style="opacity:.15891;stroke:#000;stroke-width:4.8445;fill:none" transform="scale(1,-1)" ry="28.993" height="114.35" width="114.22" y="-121.16" x="6.8687"/>
  <rect id="rect892-2-7-2-9" ry="28.067" style="stroke:#000;stroke-width:1.0489;fill:none" transform="scale(1,-1)" height="112.71" width="114.14" y="-120.31" x="7.0649"/>
@@ -97,5 +96,4 @@
  <path id="path4891" d="m25.685 5.7862c3.6386-0.3502 2.8432 14.02 2.8432 14.02s16.093-0.84846 16.525 1.9543c3.85-3.268-16.654-16.76-19.368-15.974z" style="opacity:.3;fill-rule:evenodd;filter:url(#filter3198-5)" transform="matrix(0 2.6586 -4.0239 0 144.6 .66614)"/>
  <path id="path4893" d="m120.42 71.909c-2.6379 9.487-48.941 8.4899-48.941 8.4899s3.0553 39.005-10.575 39.949c8.02 2.4523 48.56-28.337 57.689-43.48 1.1729-1.9458 1.8272-3.6334 1.8272-4.9589z" style="fill:url(#linearGradient6921);fill-rule:evenodd"/>
  <path id="rect846-0-6" d="m0 120v2.8333c0 2.8728 2.2939 5.1667 5.1667 5.1667h117.67c2.8728 0 5.1667-2.2939 5.1667-5.1667v-2.8333c0 2.8728-2.2939 5.1667-5.1667 5.1667h-117.67c-2.8761 0-5.17-2.3-5.17-5.17z"/>
- <path id="rect4280-1" style="fill-opacity:.39216" d="m5.1667 0.000029117c-2.8728 0-5.1667 2.2939-5.1667 5.1667v114.83c0 2.1157 1.2801 3.864 3.0833 4.6667-0.82491-0.8888-1.3333-2.0864-1.3333-3.4165v-114.5c0-2.7952 2.2051-5 5-5h114.5c2.7949 0 5 2.2048 5 5v114.5c0 1.3301-0.50842 2.5277-1.3333 3.4165 1.8033-0.80267 3.0833-2.5509 3.0833-4.6667v-114.83c0-2.8728-2.2939-5.1667-5.1667-5.1667h-117.67z"/>
 </svg>
