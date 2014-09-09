@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3815" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3817">
+  <filter id="filter3174" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur3176" stdDeviation="1.71"/>
+  </filter>
+  <filter id="filter3794" height="1.384" width="1.384" color-interpolation-filters="sRGB" y="-.192" x="-.192">
+   <feGaussianBlur id="feGaussianBlur3796" stdDeviation="5.28"/>
+  </filter>
+  <clipPath id="clipPath4355">
+   <rect id="rect4357" style="fill:#fff" rx="6" ry="6" height="80" width="84" y="6" x="6"/>
+  </clipPath>
+ </defs>
+ <metadata id="metadata3820">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-461.71 -525.79)">
+  <rect id="rect3745" style="opacity:.9;filter:url(#filter3174);display:none;fill:#4d4d4d" transform="matrix(.36331 0 0 .36331 536.21 442.45)" rx="6" ry="6" height="85" width="86" y="7" x="5"/>
+  <rect id="rect3171" style="opacity:.1;filter:url(#filter3794);stroke:#fff;stroke-linecap:round;stroke-width:.5;display:none;fill:#4d4d4d" transform="matrix(.36331 0 0 .36331 536.21 442.45)" clip-path="url(#clipPath4355)" rx="12" ry="12" height="62" width="66" y="15" x="15"/>
+  <path id="path10446" style="fill:#4d4d4d;fill-rule:evenodd" d="m472.71 528.79c-4.4183 0-8 3.5817-8 8s3.5817 8 8 8 8-3.5817 8-8-3.5817-8-8-8zm0 1.3125c3.6906 0 6.6875 2.9969 6.6875 6.6875s-2.9969 6.6875-6.6875 6.6875-6.6875-2.9969-6.6875-6.6875 2.9969-6.6875 6.6875-6.6875z"/>
+  <path id="path10112" style="fill:#4d4d4d" d="m470.53 539.8c0-0.51916 0.002-0.51954 2.0559-0.51954 1.6876 0 2.0786 0.0592 2.1828 0.33048 0.23168 0.60374-0.0899 0.70861-2.1728 0.70861-2.0651 0-2.0659-0.00021-2.0659-0.51955zm-1.4547-3.7085c0-0.15374 0.18703-0.44878 0.41563-0.65566s0.41564-0.48743 0.41564-0.62345-0.18704-0.41657-0.41564-0.62345c-0.40146-0.36332-0.56727-0.93518-0.27114-0.93518 0.0795 0 0.40678 0.25129 0.72736 0.55843l0.58287 0.55842 0.60065-0.57546c0.79006-0.75692 1.1167-0.31871 0.35503 0.4763l-0.54444 0.56827 0.52174 0.49015c0.4895 0.45986 0.70012 1.0412 0.37724 1.0412-0.0795 0-0.40678-0.2513-0.72735-0.55842l-0.58287-0.55843-0.58287 0.55843c-0.64959 0.62234-0.87185 0.69344-0.87185 0.2789zm4.3642 0c0-0.15374 0.18704-0.44878 0.41564-0.65566s0.41563-0.48743 0.41563-0.62345-0.18703-0.41657-0.41563-0.62345c-0.40147-0.36332-0.56727-0.93518-0.27115-0.93518 0.0795 0 0.40678 0.25129 0.72736 0.55843l0.58287 0.55842 0.60066-0.57546c0.79005-0.75692 1.1167-0.31871 0.35502 0.4763l-0.54444 0.56827 0.52174 0.49015c0.4895 0.45986 0.70013 1.0412 0.37725 1.0412-0.0795 0-0.40679-0.2513-0.72736-0.55842l-0.58287-0.55843-0.58287 0.55843c-0.64959 0.62234-0.87185 0.69344-0.87185 0.2789z"/>
+ </g>
+</svg>
