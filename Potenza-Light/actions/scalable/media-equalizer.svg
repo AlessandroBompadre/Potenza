@@ -345,22 +345,22 @@
   </g>
   <path
      id="rect6016"
-     style="color:#bebebe;fill:#4d4d4d;fill-opacity:0.80000000000000004;enable-background:accumulate"
+     style="color:#bebebe;fill:#4d4d4d;fill-opacity:1;enable-background:accumulate"
      d="m 44.5722,23.9996 v 6.8572 h 6.8572 v -6.8572 h -6.8572 z m 0,20.5716 V 72 h 6.8572 V 44.5712 h -6.8572 z"
      inkscape:connector-curvature="0" />
   <path
      id="rect6018"
-     style="color:#bebebe;fill:#4d4d4d;fill-opacity:0.80000000000000004;enable-background:accumulate"
+     style="color:#bebebe;fill:#4d4d4d;fill-opacity:1;enable-background:accumulate"
      d="M 61.7152,23.9996 V 54.857 h 6.8572 V 23.9996 h -6.8572 z m 0,44.5718 V 72 h 6.8572 v -3.4286 h -6.8572 z"
      inkscape:connector-curvature="0" />
   <path
      id="rect6020"
-     style="color:#bebebe;fill:#4d4d4d;fill-opacity:0.80000000000000004;enable-background:accumulate"
+     style="color:#bebebe;fill:#4d4d4d;fill-opacity:1;enable-background:accumulate"
      d="m 27.4292,23.9996 v 24.0002 h 6.8572 V 23.9996 h -6.8572 z m 0,37.7146 V 72 h 6.8572 V 61.7142 h -6.8572 z"
      inkscape:connector-curvature="0" />
   <rect
      id="rect6022"
-     style="color:#bebebe;fill:#4d4d4d;fill-opacity:0.80000000000000004;enable-background:accumulate"
+     style="color:#bebebe;fill:#4d4d4d;fill-opacity:1;enable-background:accumulate"
      ry="1.7143"
      height="6.8572001"
      width="13.7144"
@@ -368,7 +368,7 @@
      x="24.000601" />
   <rect
      id="rect6024"
-     style="color:#bebebe;fill:#4d4d4d;fill-opacity:0.80000000000000004;enable-background:accumulate"
+     style="color:#bebebe;fill:#4d4d4d;fill-opacity:1;enable-background:accumulate"
      ry="1.7143"
      height="6.8572001"
      width="13.7144"
@@ -376,7 +376,7 @@
      x="41.1436" />
   <rect
      id="rect6026"
-     style="color:#bebebe;fill:#4d4d4d;fill-opacity:0.80000000000000004;enable-background:accumulate"
+     style="color:#bebebe;fill:#4d4d4d;fill-opacity:1;enable-background:accumulate"
      ry="1.7143"
      height="6.8572001"
      width="13.7144"
