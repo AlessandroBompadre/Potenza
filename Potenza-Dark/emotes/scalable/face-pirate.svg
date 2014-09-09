@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3815" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3817">
+  <filter id="filter3174" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur3176" stdDeviation="1.71"/>
+  </filter>
+  <filter id="filter3794" height="1.384" width="1.384" color-interpolation-filters="sRGB" y="-.192" x="-.192">
+   <feGaussianBlur id="feGaussianBlur3796" stdDeviation="5.28"/>
+  </filter>
+  <clipPath id="clipPath4355">
+   <rect id="rect4357" style="fill:#fff" rx="6" ry="6" height="80" width="84" y="6" x="6"/>
+  </clipPath>
+ </defs>
+ <metadata id="metadata3820">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-461.71 -525.79)">
+  <rect id="rect3745" style="opacity:.9;filter:url(#filter3174);display:none;fill:#f2f2f2" transform="matrix(.36331 0 0 .36331 536.21 442.45)" rx="6" ry="6" height="85" width="86" y="7" x="5"/>
+  <rect id="rect3171" style="opacity:.1;filter:url(#filter3794);stroke:#fff;stroke-linecap:round;stroke-width:.5;display:none;fill:#f2f2f2" transform="matrix(.36331 0 0 .36331 536.21 442.45)" clip-path="url(#clipPath4355)" rx="12" ry="12" height="62" width="66" y="15" x="15"/>
+  <path id="path10446-4" style="fill:#f2f2f2;fill-rule:evenodd" d="m472.71 528.79c-4.4183 0-8 3.5817-8 8s3.5817 8 8 8 8-3.5817 8-8-3.5817-8-8-8zm0 1.3176c3.6906 0 6.6824 2.9918 6.6824 6.6824s-2.9918 6.6824-6.6824 6.6824-6.6824-2.9918-6.6824-6.6824 2.9918-6.6824 6.6824-6.6824z"/>
+  <path id="path10385-8-4" style="fill:#f2f2f2" d="m468.67 540.33v-0.47059h4.0471 4.0471v0.47059 0.47059h-4.0471-4.0471z"/>
+  <path id="path10955" style="fill:#f2f2f2" d="m12 8c-0.50985 0.23247-1.011 0.46988-1 1 0.36395 0.85127 0.36605 2.9424 3 3 3 0 2-2 4-2v-1c-4 0-2-2-6-1z" transform="translate(461.71 525.79)"/>
+  <rect id="rect10961" style="fill:#f2f2f2;fill-rule:evenodd" ry="1" height="4" width="2" y="533.52" x="468.71"/>
+  <path id="path10957" style="fill:#f2f2f2" d="m8 4c0 1 0 3 3 5l1-1c-2.0786-0.4008-3-2-4-4z" transform="translate(461.71 525.79)"/>
+ </g>
+</svg>

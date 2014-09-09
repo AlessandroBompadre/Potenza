@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3815" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3817">
+  <filter id="filter3174" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur3176" stdDeviation="1.71"/>
+  </filter>
+  <filter id="filter3794" height="1.384" width="1.384" color-interpolation-filters="sRGB" y="-.192" x="-.192">
+   <feGaussianBlur id="feGaussianBlur3796" stdDeviation="5.28"/>
+  </filter>
+  <clipPath id="clipPath4355">
+   <rect id="rect4357" style="fill:#fff" rx="6" ry="6" height="80" width="84" y="6" x="6"/>
+  </clipPath>
+  <clipPath id="clipPath4355-8">
+   <rect id="rect4357-8" style="fill:#fff" rx="6" ry="6" height="80" width="84" y="6" x="6"/>
+  </clipPath>
+  <filter id="filter3794-8" height="1.384" width="1.384" color-interpolation-filters="sRGB" y="-.192" x="-.192">
+   <feGaussianBlur id="feGaussianBlur3796-6" stdDeviation="5.28"/>
+  </filter>
+  <filter id="filter3174-1" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur3176-8" stdDeviation="1.71"/>
+  </filter>
+ </defs>
+ <metadata id="metadata3820">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-461.71 -525.79)">
+  <rect id="rect3745" style="opacity:.9;filter:url(#filter3174);display:none;fill:#f2f2f2" transform="matrix(.36331 0 0 .36331 536.21 442.45)" rx="6" ry="6" height="85" width="86" y="7" x="5"/>
+  <rect id="rect3171" style="opacity:.1;filter:url(#filter3794);stroke:#fff;stroke-linecap:round;stroke-width:.5;display:none;fill:#f2f2f2" transform="matrix(.36331 0 0 .36331 536.21 442.45)" clip-path="url(#clipPath4355)" rx="12" ry="12" height="62" width="66" y="15" x="15"/>
+  <path id="path10446" style="fill:#f2f2f2;fill-rule:evenodd" d="m472.71 528.79c-4.4183 0-8 3.5817-8 8s3.5817 8 8 8 8-3.5817 8-8-3.5817-8-8-8zm0 1.3176c3.6906 0 6.6824 2.9918 6.6824 6.6824s-2.9918 6.6824-6.6824 6.6824-6.6824-2.9918-6.6824-6.6824 2.9918-6.6824 6.6824-6.6824z"/>
+  <path id="path11114" style="fill:#f2f2f2;fill-rule:evenodd" d="m13 13.5a2 1.5 0 1 1 -4 0 2 1.5 0 1 1 4 0z" transform="matrix(.61330 0 0 .80788 465.97 525.88)"/>
+  <g id="layer1-05" transform="translate(0 .6875)">
+   <path id="path10108" d="m6 12c1 6 9 6 10 0h-3.4375v1.0938c0 0.22915-0.20328 0.40625-0.46875 0.40625h-0.5c-0.265 0-0.468-0.177-0.468-0.406v-1.0938h-0.28125v1.0938c0 0.22915-0.23453 0.40625-0.5 0.40625h-0.469c-0.2654 0-0.4688-0.177-0.4688-0.406v-1.094h-3.4062z" style="fill:#f2f2f2" transform="translate(461.71 525.79)"/>
+   <rect id="rect3745-3" style="opacity:.9;filter:url(#filter3174-1);display:none;fill:#f2f2f2" rx="6" transform="matrix(.36331 0 0 .36331 536.21 442.45)" ry="6" width="86" y="7" x="5" height="85"/>
+   <rect id="rect3171-8" style="opacity:.1;filter:url(#filter3794-8);stroke:#fff;stroke-linecap:round;stroke-width:.5;display:none;fill:#f2f2f2" clip-path="url(#clipPath4355-8)" rx="12" transform="matrix(.36331 0 0 .36331 536.21 442.45)" ry="12" width="66" y="15" x="15" height="62"/>
+  </g>
+  <path id="path10385-0-4" d="m468.27 534.89c-0.31848-0.3519-0.29461-0.39959 0.6953-1.3895l1.0251-1.0251 0.98807 0.96252c0.54344 0.52938 0.98807 1.0264 0.98807 1.1045s-0.13052 0.2503-0.29007 0.3827c-0.24378 0.20233-0.38786 0.14594-0.90308-0.35342-0.33715-0.32679-0.68512-0.59416-0.77327-0.59416-0.0881 0-0.43929 0.2873-0.78032 0.63845-0.60856 0.62662-0.62614 0.63169-0.94981 0.27404zm5.3826-0.0751c-0.2065-0.2488-0.0921-0.44417 0.77269-1.3198l1.015-1.0278 1.0255 1.0255c0.87784 0.87784 0.99033 1.0679 0.7812 1.3198-0.34655 0.41757-0.59214 0.362-1.2178-0.27558-0.30195-0.30771-0.60375-0.55948-0.67066-0.55948-0.0669 0-0.36511 0.25412-0.66267 0.56471-0.62117 0.64837-0.71185 0.67207-1.0433 0.27268z" style="fill:#f2f2f2"/>
+ </g>
+</svg>

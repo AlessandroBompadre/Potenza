@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3815" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3817">
+  <filter id="filter3174" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur3176" stdDeviation="1.71"/>
+  </filter>
+  <filter id="filter3794" height="1.384" width="1.384" color-interpolation-filters="sRGB" y="-.192" x="-.192">
+   <feGaussianBlur id="feGaussianBlur3796" stdDeviation="5.28"/>
+  </filter>
+  <clipPath id="clipPath4355">
+   <rect id="rect4357" style="fill:#fff" rx="6" ry="6" height="80" width="84" y="6" x="6"/>
+  </clipPath>
+  <clipPath id="clipPath4355-6">
+   <rect id="rect4357-7" style="fill:#fff" rx="6" ry="6" height="80" width="84" y="6" x="6"/>
+  </clipPath>
+  <filter id="filter3794-8" height="1.384" width="1.384" color-interpolation-filters="sRGB" y="-.192" x="-.192">
+   <feGaussianBlur id="feGaussianBlur3796-3" stdDeviation="5.28"/>
+  </filter>
+  <filter id="filter3174-2" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur3176-4" stdDeviation="1.71"/>
+  </filter>
+ </defs>
+ <metadata id="metadata3820">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-461.71 -525.79)">
+  <path id="path11170" style="fill-opacity:.60870;fill:#d40000;fill-rule:evenodd" d="m18 10.5a7 7.5 0 1 1 -14 0 7 7.5 0 1 1 14 0z" transform="matrix(1.0758 0 0 1 460.84 526.23)"/>
+  <rect id="rect3745" style="opacity:.9;filter:url(#filter3174);display:none;fill:#f2f2f2" transform="matrix(.36331 0 0 .36331 536.21 442.45)" rx="6" ry="6" height="85" width="86" y="7" x="5"/>
+  <rect id="rect3171" style="opacity:.1;filter:url(#filter3794);stroke:#fff;stroke-linecap:round;stroke-width:.5;display:none;fill:#f2f2f2" transform="matrix(.36331 0 0 .36331 536.21 442.45)" clip-path="url(#clipPath4355)" rx="12" ry="12" height="62" width="66" y="15" x="15"/>
+  <path id="path10446" style="fill:#f2f2f2;fill-rule:evenodd" d="m472.71 528.79c-4.4183 0-8 3.5817-8 8s3.5817 8 8 8 8-3.5817 8-8-3.5817-8-8-8zm0 1.3176c3.6906 0 6.6824 2.9918 6.6824 6.6824s-2.9918 6.6824-6.6824 6.6824-6.6824-2.9918-6.6824-6.6824 2.9918-6.6824 6.6824-6.6824z"/>
+  <g id="g10910" transform="translate(0 1.1)">
+   <path id="path10385-7-0" style="fill:#f2f2f2" d="m7.6875 7.0938c-0.90779 1.7555 0.39562 4.3625 1.4375 2.875 0.18747-0.26765 0.3125-0.89126 0.3125-1.5zm6.625 0-1.75 1.375c0 0.60874 0.12503 1.2324 0.3125 1.5 1.0419 1.4875 2.3453-1.1195 1.4375-2.875z" transform="translate(461.71 525.79)"/>
+   <path id="path10118" d="m468.66 532.23 2 2" style="stroke:#f2f2f2;stroke-linecap:round;stroke-width:1px;fill:none"/>
+   <path id="path10118-8" d="m476.76 532.23-2 2" style="stroke:#f2f2f2;stroke-linecap:round;stroke-width:1px;fill:none"/>
+  </g>
+  <g id="layer1-5" transform="matrix(1 0 0 -1 -8.039 1076.4)">
+   <rect id="rect3745-0" style="opacity:.9;filter:url(#filter3174-2);display:none;fill:#f2f2f2" rx="6" transform="matrix(.36331 0 0 .36331 536.21 442.45)" ry="6" width="86" y="7" x="5" height="85"/>
+   <rect id="rect3171-2" style="opacity:.1;filter:url(#filter3794-8);stroke:#fff;stroke-linecap:round;stroke-width:.5;display:none;fill:#f2f2f2" clip-path="url(#clipPath4355-6)" rx="12" transform="matrix(.36331 0 0 .36331 536.21 442.45)" ry="12" width="66" y="15" x="15" height="62"/>
+   <path id="path10385-7" d="m479.32 537.2c-1.2982-0.3443-2.7795-0.98942-2.7795-1.2105 0-0.54648 0.5551-0.76075 1.1691-0.45124 1.4502 0.73107 4.1486 0.80309 5.8511 0.15617 0.83967-0.31905 1.1304-0.35658 1.254-0.16188 0.31798 0.50057 0.15149 0.72426-0.8642 1.1612-1.024 0.44049-3.7533 0.7389-4.6305 0.50625z" style="fill:#f2f2f2"/>
+  </g>
+ </g>
+</svg>
