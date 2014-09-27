@@ -1,5 +1,6 @@
 [Dolphin]
 PreviewsShown=true
-Timestamp=2014,9,27,12,30,25
+SortRole=size
+Timestamp=2014,9,27,15,57,28
 Version=3
-VisibleRoles=Icons_text
+VisibleRoles=Icons_text,Icons_size
