@@ -45,7 +45,7 @@
          d="m 39.90625,20.125 a 1.98949,1.98949 0 0 0 -1.625,1 l -15.5,26.8125 a 1.98949,1.98949 0 0 0 1.71875,3 l 31,0 a 1.98949,1.98949 0 0 0 1.71875,-3 l -15.5,-26.8125 a 1.98949,1.98949 0 0 0 -1.8125,-1 z"
          transform="translate(-0.90625006,0)"
          id="path4017"
-         style="opacity:0.8;color:#000000;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="opacity:0.8;color:#CCCCCC;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </clipPath>
     <filter
        color-interpolation-filters="sRGB"
@@ -80,7 +80,7 @@
          d="M 33.6875,28 A 1.8077854,2.0469767 0 0 0 32,30.0625 l 0,31.875 a 1.8077854,2.0469767 0 0 0 2.71875,1.78125 L 58,48.5 58,60 c 0,1.108 0.892,2 2,2 l 4,0 c 1.108,0 2,-0.892 2,-2 l 0,-28 c 0,-1.108 -0.892,-2 -2,-2 l -4,0 c -1.108,0 -2,0.892 -2,2 L 58,43.5 34.71875,28.28125 A 1.8077854,2.0469767 0 0 0 33.6875,28 z"
          inkscape:connector-curvature="0"
          id="path4268"
-         style="opacity:0.8;color:#000000;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="opacity:0.8;color:#CCCCCC;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </clipPath>
     <filter
        color-interpolation-filters="sRGB"
@@ -112,7 +112,7 @@
     <clipPath
        id="clipPath3940">
       <path
-         style="color:#000000;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#CCCCCC;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path3942"
          inkscape:connector-curvature="0"
          d="m 34,30 c -1.108,0 -2,0.892 -2,2 l 0,28 c 0,1.108 0.892,2 2,2 l 8,0 c 1.108,0 2,-0.892 2,-2 l 0,-28 c 0,-1.108 -0.892,-2 -2,-2 l -8,0 z m 20,0 c -1.108,0 -2,0.892 -2,2 l 0,28 c 0,1.108 0.892,2 2,2 l 8,0 c 1.108,0 2,-0.892 2,-2 l 0,-28 c 0,-1.108 -0.892,-2 -2,-2 l -8,0 z" />
@@ -147,7 +147,7 @@
     <clipPath
        id="clipPath4266-7">
       <path
-         style="opacity:0.8;color:#000000;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="opacity:0.8;color:#CCCCCC;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="path4268-9"
          inkscape:connector-curvature="0"
          d="M 33.6875,28 A 1.8077854,2.0469767 0 0 0 32,30.0625 l 0,31.875 a 1.8077854,2.0469767 0 0 0 2.71875,1.78125 L 58,48.5 58,60 c 0,1.108 0.892,2 2,2 l 4,0 c 1.108,0 2,-0.892 2,-2 l 0,-28 c 0,-1.108 -0.892,-2 -2,-2 l -4,0 c -1.108,0 -2,0.892 -2,2 L 58,43.5 34.71875,28.28125 A 1.8077854,2.0469767 0 0 0 33.6875,28 z" />
@@ -193,7 +193,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="opacity:1;color:#000000;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="opacity:1;color:#CCCCCC;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path4074"
      inkscape:connector-curvature="0"
      d="M 4.5467168,3.2046631 A 0.76187326,0.86267807 0 0 0 3.8355366,4.0738833 l 0,13.4334027 a 0.76187326,0.86267807 0 0 0 1.1457903,0.750691 l 9.8116521,-6.413792 0,4.846561 c 0,0.466956 0.375925,0.84288 0.84288,0.84288 l 1.685761,0 c 0.466955,0 0.84288,-0.375924 0.84288,-0.84288 l 0,-11.8003225 c 0,-0.4669556 -0.375925,-0.8428802 -0.84288,-0.8428802 l -1.685761,0 c -0.466955,0 -0.84288,0.3759246 -0.84288,0.8428802 l 0,4.8465611 -9.8116521,-6.4137915 a 0.76187326,0.86267807 0 0 0 -0.4346101,-0.11853 z" />

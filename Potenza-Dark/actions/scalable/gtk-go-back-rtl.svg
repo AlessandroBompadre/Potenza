@@ -38,11 +38,11 @@
       <stop
          id="stop3284"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.86274511;" />
+         style="stop-color:#CCCCCC;stop-opacity:0.86274511;" />
       <stop
          id="stop3286"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0.47058824;" />
+         style="stop-color:#CCCCCC;stop-opacity:0.47058824;" />
     </linearGradient>
     <inkscape:perspective
        id="perspective3648"
@@ -109,11 +109,11 @@
        y2="19.387045"
        gradientUnits="userSpaceOnUse">
       <stop
-         style="stop-color:#000000;stop-opacity:0.23529412;"
+         style="stop-color:#CCCCCC;stop-opacity:0.23529412;"
          offset="0"
          id="stop3283" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.54901963;"
+         style="stop-color:#CCCCCC;stop-opacity:0.54901963;"
          offset="1"
          id="stop2651" />
     </linearGradient>
@@ -178,7 +178,7 @@
      inkscape:label="Arrow"
      style="display:inline">
     <path
-       style="color:#000000;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000000999999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#CCCCCC;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000000999999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="M 7.75,2 5.625,4.125 7.5,6 3,6 3,9 7.5,9 5.625,10.875 7.75,13 13.21875,7.5 z"
        id="rect3042"
        inkscape:connector-curvature="0"

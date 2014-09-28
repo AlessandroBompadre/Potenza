@@ -102,11 +102,11 @@
        gradientTransform="matrix(0.9469,0,0,1.139,3.5954,-29.89)">
       <stop
          id="stop2699-5"
-         style="stop-color:#9cbbd9;stop-opacity:1"
+         style="stop-color:#86b3e0;stop-opacity:1"
          offset="0" />
       <stop
          id="stop2701-7"
-         style="stop-color:#5c82ab;stop-opacity:1"
+         style="stop-color:#649ad6;stop-opacity:1"
          offset="1" />
     </radialGradient>
   </defs>

@@ -195,11 +195,11 @@
       <stop
          id="stop3283"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.23529412;" />
+         style="stop-color:#CCCCCC;stop-opacity:0.23529412;" />
       <stop
          id="stop2651"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0.54901963;" />
+         style="stop-color:#CCCCCC;stop-opacity:0.54901963;" />
     </linearGradient>
     <radialGradient
        gradientUnits="userSpaceOnUse"
@@ -266,11 +266,11 @@
        gradientTransform="scale(1.0923124,0.915489)"
        id="StandardGradient">
       <stop
-         style="stop-color:#000000;stop-opacity:0.86274511;"
+         style="stop-color:#CCCCCC;stop-opacity:0.86274511;"
          offset="0"
          id="stop3284" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.47058824;"
+         style="stop-color:#CCCCCC;stop-opacity:0.47058824;"
          offset="1"
          id="stop3286" />
     </linearGradient>

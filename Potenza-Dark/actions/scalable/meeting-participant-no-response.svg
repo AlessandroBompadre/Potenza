@@ -29,11 +29,11 @@
       <stop
          id="stop3283"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.23529412;" />
+         style="stop-color:#CCCCCC;stop-opacity:0.23529412;" />
       <stop
          id="stop2651"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0.54901963;" />
+         style="stop-color:#CCCCCC;stop-opacity:0.54901963;" />
     </linearGradient>
     <radialGradient
        gradientUnits="userSpaceOnUse"
@@ -100,11 +100,11 @@
        gradientTransform="scale(1.0923124,0.915489)"
        id="StandardGradient">
       <stop
-         style="stop-color:#000000;stop-opacity:0.86274511;"
+         style="stop-color:#CCCCCC;stop-opacity:0.86274511;"
          offset="0"
          id="stop3284" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.47058824;"
+         style="stop-color:#CCCCCC;stop-opacity:0.47058824;"
          offset="1"
          id="stop3286" />
     </linearGradient>
@@ -156,7 +156,7 @@
        inkscape:connector-curvature="0"
        id="path11038"
        d="M 7.964684,18.754208 C 6.351229,18.600766 5.1812223,18.323499 4.9174945,18.032081 4.7515874,17.848756 4.8439725,17.618538 5.1240848,17.517246 l 0.238252,-0.08616 -0.1935965,-0.0979 C 4.6706996,17.081328 4.3162068,16.807282 4.2164062,16.596972 c 6.0652808,-0.04989 6.8732838,-0.136861 13.6352348,-0.23688 0,0.209399 -0.05129,0.296034 -0.31022,0.52395 -0.170622,0.150187 -0.498759,0.347954 -0.729192,0.439481 l -0.418971,0.166416 0.197378,0.08299 c 0.25855,0.108711 0.307888,0.199886 0.200885,0.371225 -0.183049,0.293108 -1.055964,0.551065 -2.517656,0.743998 -1.173754,0.154926 -4.9580082,0.194539 -6.309175,0.06604 z"
-       style="fill:#000000;fill-opacity:1" />
+       style="fill:#CCCCCC;fill-opacity:1" />
     <path
        sodipodi:nodetypes="cssssssssssssssscssssscssssssscc"
        inkscape:connector-curvature="0"

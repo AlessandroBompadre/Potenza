@@ -725,7 +725,7 @@
      style="fill:#f2f2f2;fill-opacity:1;stroke:url(#linearGradient10302);stroke-width:0.20000000000000001"
      id="layer12">
     <path
-       style="color:#000000;fill:#f2f2f2;fill-opacity:1;stroke:url(#linearGradient10300);stroke-width:0.20000000000000001;enable-background:accumulate"
+       style="color:#CCCCCC;fill:#f2f2f2;fill-opacity:1;stroke:url(#linearGradient10300);stroke-width:0.20000000000000001;enable-background:accumulate"
        d="m 528.66,57.938 -12.719,12.719 1.4062,1.4062 12.719,-12.719 z"
        id="path2986-2-7"
        inkscape:connector-curvature="0" />

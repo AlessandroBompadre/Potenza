@@ -1,0 +1,228 @@
+<?xml version='1.0'?>
+<messaging-emoticon-map>
+    <emoticon file="face-angry">
+        <string>:-@</string>
+        <string>:@</string>
+        <string>>:-(</string>
+        <string>>:(</string>
+    </emoticon>
+    <emoticon file="bat">
+        <string>:-[</string>
+        <string>:[</string>
+    </emoticon>
+    <emoticon file="drink-beer">
+        <string>(B)</string>
+        <string>(b)</string>
+    </emoticon>
+    <emoticon file="food-cake">
+        <string>(^)</string>
+    </emoticon>
+    <emoticon file="camera">
+        <string>(P)</string>
+        <string>(p)</string>
+    </emoticon>
+    <emoticon file="cat">
+        <string>(@)</string>
+    </emoticon>
+    <emoticon file="clock">
+        <string>(O)</string>
+        <string>(o)</string>
+    </emoticon>
+    <emoticon file="drink-martini">
+        <string>(D)</string>
+        <string>(d)</string>
+    </emoticon>
+    <emoticon file="face-uncertain">
+        <string>:-S</string>
+        <string>:S</string>
+        <string>:-s</string>
+        <string>:s</string>
+    </emoticon>
+    <emoticon file="face-crying">
+        <string>:'(</string>
+        <string>:'-(</string>
+        <string>;-(</string>
+        <string>;(</string>
+    </emoticon>
+    <emoticon file="cup">
+        <string>(C)</string>
+        <string>(c)</string>
+    </emoticon>
+    <emoticon file="dog">
+        <string>(&amp;)</string>
+    </emoticon>
+    <emoticon file="face-embarassed">
+        <string>:-$</string>
+        <string>:$</string>
+    </emoticon>
+    <emoticon file="email">
+        <string>(E)</string>
+        <string>(e)</string>
+    </emoticon>
+    <emoticon file="film">
+        <string>(~)</string>
+    </emoticon>
+    <emoticon file="face-kiss">
+        <string>(K)</string>
+        <string>(k)</string>
+        <string>:-*</string>
+        <string>:*</string>
+    </emoticon>
+    <emoticon file="lightbulb">
+        <string>(I)</string>
+        <string>(i)</string>
+    </emoticon>
+    <emoticon file="heart">
+        <string>&lt;3</string>
+        <string>(L)</string>
+        <string>(l)</string>
+    </emoticon>
+    <emoticon file="note">
+        <string>(8)</string>
+    </emoticon>
+    <emoticon file="face-surprise">
+        <string>:-O</string>
+        <string>:O</string>
+        <string>:-o</string>
+        <string>:o</string>
+    </emoticon>
+    <emoticon file="phone">
+        <string>(T)</string>
+        <string>(t)</string>
+    </emoticon>
+    <emoticon file="gift">
+        <string>(G)</string>
+        <string>(g)</string>
+    </emoticon>
+    <emoticon file="rose">
+        <string>(F)</string>
+        <string>(f)</string>
+    </emoticon>
+    <emoticon file="face-sad">
+        <string>:-(</string>
+        <string>:(</string>
+    </emoticon>
+    <emoticon file="face-cool">
+        <string>(H)</string>
+        <string>(h)</string>
+        <string>8-)</string>
+        <string>8)</string>
+    </emoticon>
+    <emoticon file="face-smile">
+        <string>:)</string>
+        <string>:-)</string>
+    </emoticon>
+    <emoticon file="star">
+        <string>(*)</string>
+    </emoticon>
+    <emoticon file="face-laughing">
+         <string>(lol)</string>
+    </emoticon>
+    <emoticon file="face-smile-big">
+        <string>:-D</string>
+        <string>:D</string>
+    </emoticon>
+    <emoticon file="opinion-disagree">
+        <string>(N)</string>
+        <string>(n)</string>
+    </emoticon>
+    <emoticon file="opinion-agree">
+        <string>(Y)</string>
+        <string>(y)</string>
+    </emoticon>
+    <emoticon file="face-raspberry">
+        <string>:-P</string>
+        <string>:P</string>
+        <string>:-p</string>
+        <string>:p</string>
+    </emoticon>
+    <emoticon file="heart-broken">
+        <string>(U)</string>
+        <string>(u)</string>
+    </emoticon>
+    <emoticon file="rose-wilted">
+        <string>(W)</string>
+        <string>(w)</string>
+    </emoticon>
+    <emoticon file="face-wink">
+        <string>;-)</string>
+        <string>;)</string>
+    </emoticon>
+    <emoticon file="face-angel">
+        <string>0:-)</string>
+    </emoticon>
+    <emoticon file="face-clown">
+        <string>:oD</string>
+	<string>:o)</string>
+    </emoticon>
+    <emoticon file="face-devilish">
+      <string>>:-)</string>
+      <string>>:)</string>
+    </emoticon>
+    <emoticon file="face-glasses">
+      <string>O-O</string>
+    </emoticon>
+    <emoticon file="face-hug-left">
+      <string>(hug)</string>
+    </emoticon>
+    <emoticon file="face-hug-right">
+      <string>(hugr)</string>
+    </emoticon>
+    <emoticon file="face-in-love">
+      <string>*_*</string>
+    </emoticon>    
+    <emoticon file="face-ninja">
+      <string>(ninja)</string>
+    </emoticon>    
+    <emoticon file="face-pirate">
+      <string>(pirate)</string>
+    </emoticon>  
+    <emoticon file="face-plain">
+      <string>:-|</string>
+      <string>:|</string>
+    </emoticon> 
+    <emoticon file="face-quiet">
+        <string>:-X</string>
+        <string>:X</string>
+        <string>:-x</string>
+        <string>:x</string>
+    </emoticon> 
+    <emoticon file="face-sleep">
+      <string>Z_Z</string>
+      <string>z_z</string>
+    </emoticon> 
+    <emoticon file="face-confused">
+      <string>:-\</string>
+      <string>:-/</string>
+    </emoticon> 
+    <emoticon file="food-pizza">
+      <string>(pizza)</string>
+    </emoticon> 
+    <emoticon file="food-cake">
+      <string>(cake)</string>
+    </emoticon> 
+    <emoticon file="food">
+      <string>(food)</string>
+    </emoticon> 
+    <emoticon file="opinion-no">
+      <string>(no)</string>
+    </emoticon> 
+    <emoticon file="opinion-okay">
+      <string>(ok)</string>
+    </emoticon> 
+    <emoticon file="face-sick">
+      <string>(sick)</string>
+    </emoticon> 
+    <emoticon file="face-worried">
+      <string>(worried)</string>
+    </emoticon> 
+    <emoticon file="face-smirk">
+      <string>(smirk)</string>
+    </emoticon>
+    <emoticon file="face-grin">
+      <string>(grin)</string>
+    </emoticon>
+    <emoticon file="face-yawn">
+      <string>(yawn)</string>
+    </emoticon>
+</messaging-emoticon-map>

@@ -126,7 +126,7 @@
     <path
        id="path3001"
        d="m -9372.3076,4843.1987 c -6,0 -10,7 -10,7 l 2,0 c 0,0 1.2067,-1.5747 3.3437,-2.75 -0.2071,0.5488 -0.3437,1.1287 -0.3437,1.75 0,2.7614 2.2386,5 5,5 2.7614,0 5,-2.2386 5,-5 0,-0.6213 -0.1366,-1.2012 -0.3438,-1.75 2.1371,1.1753 3.3438,2.75 3.3438,2.75 l 2,0 c 0,0 -4,-7 -10,-7 z m 10,7 c 0,0 -5,5 -10,5 -5,0 -10,-5 -10,-5 0,0 5,7 10,7 5,0 10,-7 10,-7 z m -10,-2 c 0.5523,0 1,0.4477 1,1 0,0.5523 -0.4477,1 -1,1 -0.5523,0 -1,-0.4477 -1,-1 0,-0.5523 0.4477,-1 1,-1 z"
-       style="color:#000000;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#CCCCCC;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

@@ -79,7 +79,7 @@
        height="3.0804"
        transform="matrix(0.66047357,0.75084929,-0.75084929,0.66047357,0,0)"
        rx="6"
-       style="color:#000000;fill:#d40000"
+       style="color:#CCCCCC;fill:#d40000"
        ry="0"
        id="rect3787" />
     <rect
@@ -90,7 +90,7 @@
        ry="0"
        rx="6"
        transform="matrix(-0.75080318,0.66052599,-0.66052599,-0.75080318,0,0)"
-       style="color:#000000;fill:#d40000"
+       style="color:#CCCCCC;fill:#d40000"
        id="rect3789" />
   </g>
 </svg>

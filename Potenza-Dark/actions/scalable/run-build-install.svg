@@ -195,11 +195,11 @@
       <stop
          id="stop3283"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.23529412;" />
+         style="stop-color:#CCCCCC;stop-opacity:0.23529412;" />
       <stop
          id="stop2651"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0.54901963;" />
+         style="stop-color:#CCCCCC;stop-opacity:0.54901963;" />
     </linearGradient>
     <radialGradient
        gradientUnits="userSpaceOnUse"
@@ -266,11 +266,11 @@
        gradientTransform="scale(1.0923124,0.915489)"
        id="StandardGradient">
       <stop
-         style="stop-color:#000000;stop-opacity:0.86274511;"
+         style="stop-color:#CCCCCC;stop-opacity:0.86274511;"
          offset="0"
          id="stop3284" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.47058824;"
+         style="stop-color:#CCCCCC;stop-opacity:0.47058824;"
          offset="1"
          id="stop3286" />
     </linearGradient>
@@ -304,7 +304,7 @@
        inkscape:connector-curvature="0"
        id="rect3042"
        d="m 3,7.53125 2.125,-2.125 1.875,1.875 0,-4.5 3,0 0,4.5 1.875,-1.875 L 14,7.53125 8.5,13 z"
-       style="color:#000000;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#CCCCCC;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
   <g
      id="g10129">

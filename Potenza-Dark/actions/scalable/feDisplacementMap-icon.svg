@@ -25,7 +25,7 @@
       <stop
          id="stop5608-89"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#CCCCCC;stop-opacity:1;" />
     </linearGradient>
     <filter
        inkscape:collect="always"
@@ -151,7 +151,7 @@
       <stop
          id="stop5608-7"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#CCCCCC;stop-opacity:1;" />
     </linearGradient>
     <filter
        inkscape:collect="always"
@@ -385,7 +385,7 @@
       <stop
          id="stop5608-8"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#CCCCCC;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -406,7 +406,7 @@
       <stop
          id="stop3789-0"
          offset="1"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#CCCCCC;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        y2="16.064009"
@@ -594,7 +594,7 @@
       <stop
          id="stop5608-2"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#CCCCCC;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -615,7 +615,7 @@
       <stop
          id="stop3789-8"
          offset="1"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#CCCCCC;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        y2="14.547454"
@@ -821,7 +821,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#CCCCCC;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -842,17 +842,17 @@
       <stop
          id="stop3789"
          offset="1"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#CCCCCC;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient3816">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#CCCCCC;stop-opacity:1;"
          offset="0"
          id="stop3818" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.25581395"
+         style="stop-color:#CCCCCC;stop-opacity:0.25581395"
          offset="1"
          id="stop3820" />
     </linearGradient>
@@ -960,11 +960,11 @@
       <stop
          id="stop4016"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#CCCCCC;stop-opacity:1;" />
       <stop
          id="stop4018"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;" />
+         style="stop-color:#CCCCCC;stop-opacity:0;" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
@@ -1116,7 +1116,7 @@
              inkscape:connector-curvature="0"
              d="m 353.00019,161.39258 -2.11914,5.49414 -5.88086,0.3164 4.57227,3.71485 -1.51563,5.6914 1.63281,-1.05859 3.31055,-2.14258 4.94336,3.20117 -1.51563,-5.6914 4.57227,-3.71485 -5.88086,-0.3164 z"
              id="polygon5"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#linearGradient4244);fill-opacity:1;stroke:url(#linearGradient4226);stroke-width:0.19504352;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:sans-serif;-inkscape-font-specification:sans-serif" />
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#CCCCCC;fill:url(#linearGradient4244);fill-opacity:1;stroke:url(#linearGradient4226);stroke-width:0.19504352;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:sans-serif;-inkscape-font-specification:sans-serif" />
         </g>
       </g>
       <g

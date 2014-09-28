@@ -45,7 +45,7 @@
          d="m 39.90625,20.125 a 1.98949,1.98949 0 0 0 -1.625,1 l -15.5,26.8125 a 1.98949,1.98949 0 0 0 1.71875,3 l 31,0 a 1.98949,1.98949 0 0 0 1.71875,-3 l -15.5,-26.8125 a 1.98949,1.98949 0 0 0 -1.8125,-1 z"
          transform="translate(-0.90625006,0)"
          id="path4017"
-         style="opacity:0.8;color:#000000;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="opacity:0.8;color:#CCCCCC;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </clipPath>
     <filter
        color-interpolation-filters="sRGB"
@@ -88,7 +88,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="color:#000000;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#CCCCCC;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path4074"
      d="M 17.072758,10.958218 A 0.78425374,0.88666731 0 0 0 16.678559,10.233995 L 6.1091162,3.3260219 A 0.78425374,0.88666731 0 0 0 4.9265202,4.092027 l 0,13.815946 a 0.78425374,0.88666731 0 0 0 1.182596,0.766005 L 16.678559,11.766005 a 0.78425374,0.88666731 0 0 0 0.394199,-0.807787 z"
      inkscape:connector-curvature="0" />
